@@ -11,16 +11,17 @@ This currency converter backend uses api from Lietuvos Bankas for real time FX r
 
 Convert EUR to USD
 ```
-http://localhost:8080/api/v1/CurrencyExchange?currency1=EUR&amount=20&currency2=USD
+http://localhost:8080/api/v1/CurrencyExchange?currency1=AUD&amount=20&currency2=USD
 ```
 Result
 ```
 {
     "id": 1,
-    "currency1": "EUR",
+    "currency1": "AUD",
     "currency2": "USD",
-    "exchangeRate": 1.18,
-    "result": 23.60
+    "amount": 20,
+    "exchangeRate": 0.72,
+    "result": 14.40
 }
 ```
 All currency conversion rates according to EUR
