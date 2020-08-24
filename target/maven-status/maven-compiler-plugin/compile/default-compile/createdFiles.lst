@@ -1,0 +1,8 @@
+com/jokubas/lab1/repository/LogRepository.class
+com/jokubas/lab1/model/CurrencyResponse.class
+com/jokubas/lab1/repository/CurrencyRepository.class
+com/jokubas/lab1/controller/CurrencyController.class
+com/jokubas/lab1/exception/ResourceNotFoundException.class
+com/jokubas/lab1/Lab1Application.class
+com/jokubas/lab1/model/Currency.class
+com/jokubas/lab1/exception/BadRequestException.class

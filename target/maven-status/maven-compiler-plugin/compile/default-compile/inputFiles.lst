@@ -1,0 +1,8 @@
+/mnt/c/Users/Jokubas/Documents/VU/Web Services/IBM/src/main/java/com/jokubas/lab1/model/Currency.java
+/mnt/c/Users/Jokubas/Documents/VU/Web Services/IBM/src/main/java/com/jokubas/lab1/repository/LogRepository.java
+/mnt/c/Users/Jokubas/Documents/VU/Web Services/IBM/src/main/java/com/jokubas/lab1/exception/BadRequestException.java
+/mnt/c/Users/Jokubas/Documents/VU/Web Services/IBM/src/main/java/com/jokubas/lab1/model/CurrencyResponse.java
+/mnt/c/Users/Jokubas/Documents/VU/Web Services/IBM/src/main/java/com/jokubas/lab1/repository/CurrencyRepository.java
+/mnt/c/Users/Jokubas/Documents/VU/Web Services/IBM/src/main/java/com/jokubas/lab1/controller/CurrencyController.java
+/mnt/c/Users/Jokubas/Documents/VU/Web Services/IBM/src/main/java/com/jokubas/lab1/exception/ResourceNotFoundException.java
+/mnt/c/Users/Jokubas/Documents/VU/Web Services/IBM/src/main/java/com/jokubas/lab1/Lab1Application.java
