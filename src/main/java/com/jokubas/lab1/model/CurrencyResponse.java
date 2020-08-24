@@ -69,5 +69,12 @@ public class CurrencyResponse {
         return result;
     }
 
+    public void setAmount(BigDecimal amount){
+        this.amount = amount;
+    }
+
+    public BigDecimal getAmount(){
+        return amount;
+    }
 
 }
