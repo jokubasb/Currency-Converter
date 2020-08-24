@@ -9,7 +9,7 @@ This currency converter backend uses api from Lietuvos Bankas for real time FX r
 
 ### HTTP GET:
 
-Convert EUR to USD
+To convert AUD to USD, use http get query string to pass parameters
 ```
 http://localhost:8080/api/v1/CurrencyExchange?currency1=AUD&amount=20&currency2=USD
 ```
